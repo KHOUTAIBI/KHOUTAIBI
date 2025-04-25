@@ -60,8 +60,8 @@
 - [**TSIA-TP**](https://github.com/KHOUTAIBI/TSIA-TP)  
   Signal processing labs and visualization with Python. Covers filtering, convolution, sampling, and more.
 
-- [**Java-Factory**](https://github.com/KHOUTAIBI/Java-Factory)  
-  Object-oriented factory management system with design pattern applications in Java.
+- [**AI-Games**](https://github.com/KHOUTAIBI/AI-games)  
+  Project about AI learning to play video games using reinforcement learning, featuring: Pytorch, Tensorflow, Deep Q Learning, PPO and DDPG.
 
 - [**NumericalAnalysis**](https://github.com/KHOUTAIBI/NumericalAnalysis)  
   Comprehensive Python implementations of numerical methods for integration, interpolation, and solving systems.
