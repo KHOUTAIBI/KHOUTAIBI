@@ -32,7 +32,7 @@
 
 - Advanced probability & statistical modeling  
 - Machine learning theory and applications  
-- Low-level systems C and C++  
+- Robotics using Machine Learning 
 - Signal processing for AI (TSIA track)
 
 ## 🛠 Languages & Tools
