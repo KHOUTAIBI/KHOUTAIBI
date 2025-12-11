@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KHoutaibi Iliass</h1>
+<h1 align="center">Hi 👋, I'm Khoutaibi Iliass</h1>
 <h3 align="center">Passionate about Applied Mathematics and Computer Science</h3>
 
 <p align="center">
